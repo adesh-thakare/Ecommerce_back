@@ -1,6 +1,6 @@
 var mongoose= require ("mongoose");
-const crypto = require('node:crypto');
-const { v4: uuidv4 } = require('uuid');
+const crypto = require("crypto");
+const { v4: uuidv4 } = require("uuid");
 
 //schema
   var userSchema = new mongoose.Schema({
