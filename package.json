@@ -1,4 +1,7 @@
 {
+    "browser": {
+    "crypto": false
+    },
     "name": "projbackend",
     "version": "1.0.0",
     "description": "",
